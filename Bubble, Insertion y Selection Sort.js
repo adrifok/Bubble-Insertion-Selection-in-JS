@@ -6,7 +6,7 @@ Algoritmos Bubble Sort N o N2
 
 
 Insertion Sort   N o N2
-1. Toma el valor menor y lo lleva a la posicion correspondiente. Lo ubica hacia la el inicio de menor a mayor. 
+1. Toma el valor menor y lo lleva a la posicion correspondiente. Lo ubica hacia el inicio de menor a mayor. 
    Recorre todo el arreglo una vez. 
 
 Selection Sort   N2 (dos for anidados o un while y un for)
